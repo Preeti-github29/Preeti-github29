@@ -4,7 +4,7 @@
 ☁️ Cloud enthusiast with hands-on experience in AWS (EC2, Lambda).
 🔍 Passionate about microservices, CI/CD pipelines, database optimization (MySQL, MongoDB), and containerization (Docker, Kubernetes).
 🤝 I’m open to collaborating on open-source projects, cloud-based applications, and data-driven solutions.
-📫 You can reach me at Preeti@jobitmail.com.
+📫 You can reach me at 4709203737.
 
 <!---
 Preeti-github29/Preeti-github29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
